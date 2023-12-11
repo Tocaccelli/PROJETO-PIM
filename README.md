@@ -15,7 +15,7 @@
 <br>
 
 #### ➡️ ESTAREI POSTANDO TODAS AS ETEPAS DO SISTEMA NO LINKEDIN, NÃO DEIXEM DE SEGUIR E MANDAR SUGUESTÕES POR LÁ!
----
+--- ## https://www.linkedin.com/in/gabriel-pinelli-analista/
 ## CONTATO
 #### 📨 gabrielpinelli@icloud.com
 #### (12) 981482295
