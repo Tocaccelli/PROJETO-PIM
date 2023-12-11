@@ -1,6 +1,6 @@
-# 💻 SISTEMA DE GERENCIAMENTO p/ MUSEU TEMÁTICO
+# 💻 SISTEMA DE GERENCIAMENTO p/ MUSEU MULTI-TEMÁTICO
 #### 🇨 - Linguagem C
-#### ➡️ EM DESENVOLVIMENTO!
+#### ➡️ FINALIZADO!
 ---
 ### Sistema desenvolvido a partir de análise de requisitos do qual foi conversado com os professores na sala de aula!
 ### As principais característica do sistema são:
@@ -17,7 +17,7 @@
 #### ➡️ ESTAREI POSTANDO TODAS AS ETEPAS DO SISTEMA NO LINKEDIN, NÃO DEIXEM DE SEGUIR E MANDAR SUGUESTÕES POR LÁ!
 ---
 ## CONTATO
-#### 📨 contatomateusgd@gmail.com
-#### 🔗 [Meu Repositório (outros projetos)](https://github.com/omattaeus?tab=repositories)
+#### 📨 gabrielpinelli@icloud.com
+#### (12) 981482295
 ---
-### 🙋‍♂️ FEITO POR MATEUS GOMES p/ PROJETO DA FACULDADE: GERENCIAMENTO DE MUSEU TEMÁTICO
+### 🙋‍♂️ FEITO POR Mateus Gomes e auxiliado por Gabriel Pinelli, Ana Beatriz Santos, Gabriel Contatori e Arieli de Fátima p/ PROJETO DA FACULDADE: GERENCIAMENTO DE MUSEU MULTI-TEMÁTICO
